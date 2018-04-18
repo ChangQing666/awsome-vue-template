@@ -1,6 +1,6 @@
 # awesome-vue-template
 
-> vue常用的组件示例
+> vue常用的组件示例,vue父子组件、非父子组件通信
 
 ## Build Setup
 
